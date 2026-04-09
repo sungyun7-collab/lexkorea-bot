@@ -1,0 +1,2 @@
+# lexkorea-bot
+lawstudy
